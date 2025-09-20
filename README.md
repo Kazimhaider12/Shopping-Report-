@@ -3,6 +3,9 @@
 Metabase is a powerful, open-source business intelligence tool that empowers professionals to transform raw SQL queries into dynamic, interactive dashboards without the need for complex coding or design overhead. Its intuitive interface allows users to explore data visually, drill down into metrics, and share insights seamlessly across teams. For data analysts like Kazim, Metabase offers the flexibility to write custom SQL while also enabling rapid prototyping through its GUI, making it ideal for both technical deep dives and executive-level storytelling. Whether you're tracking purchase trends, visualizing seasonal patterns, or segmenting customer behavior, Metabase bridges the gap between data and decision-making with clarity and speed.
 
 # Shopping Dashboard – Overview
+
+<img width="404" height="359" alt="Screenshot 2025-09-20 053819" src="https://github.com/user-attachments/assets/6f09eeb4-467e-4d0c-a1fc-48ca114284f4" />
+
 🔍 Key Metrics & Insights
 Total Purchase Amount: $233.1k
 Category Distribution:
@@ -33,6 +36,9 @@ WHERE "purchase_amount_usd_" > 80
 ORDER BY "purchase_amount_usd_" DESC;
 
 # Shopping Dashboard – Purchase
+
+<img width="401" height="340" alt="Screenshot 2025-09-20 053849" src="https://github.com/user-attachments/assets/b0e6f431-c88b-4c2f-8888-405d7f9da6a7" />
+
 🔍 Key Metrics & Insights
 Total Previous Purchases: 98,871
 Top Locations by Purchase Count:
